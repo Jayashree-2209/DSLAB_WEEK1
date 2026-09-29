@@ -1,0 +1,11 @@
+# depslib dependency file v1.0
+1790654135 source:c:\users\bmscecse-l4\documents\1wa25cs100\week1\main.c
+	<stdio.h>
+	<stdlib.h>
+	<conio.h>
+
+1790654135 source:c:\users\bmscecse-l4\documents\1wa25cs100\program1\main.c
+	<stdio.h>
+	<stdlib.h>
+	<conio.h>
+
